@@ -1,2 +1,3 @@
 # cve_details_scraper
 CVEDetailsScraper.py is a simple python script which basically extracts the CVEs in a particular month and stores it as an excel file with all the information about the vulnerability viz. CVE,Date,Vendor,Product,Description etc...
+NOTE: I have used Anaconda distribution of Python as Pandas library is not compiling in Activestate and other Python distros. So to run this you'll need to install Anaconda.
